@@ -6,5 +6,16 @@ import Hero from "./Hero";
 import StarGrid from "./StarGrid";
 import Bounded from "./Bounded";
 import Bento from "./Bento";
+import Showcase from "./Showcase";
 
-export { Header, Footer, NavBar, BtnLink, Hero, StarGrid, Bounded, Bento };
+export {
+  Header,
+  Footer,
+  NavBar,
+  BtnLink,
+  Hero,
+  StarGrid,
+  Bounded,
+  Bento,
+  Showcase,
+};
